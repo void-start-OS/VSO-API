@@ -1,4 +1,4 @@
-// include/vso/core_types.hpp
+// include/vso/types.hpp
 #pragma once
 
 // VSOAPI Core Types and Error Infrastructure
